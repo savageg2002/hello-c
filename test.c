@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int* foo()
+{
+    return NULL;
+}
 int main()
 {
     int *p = NULL ;
