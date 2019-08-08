@@ -4,6 +4,10 @@ int* foo()
 {
     return NULL;
 }
+int* foo2()
+{
+    return NULL;
+}
 int main()
 {
     int *p = NULL ;
